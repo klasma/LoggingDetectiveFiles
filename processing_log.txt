@@ -1,21 +1,22 @@
-2023-09-05 23:52:16 Started replace_files_sweden_test.
-2023-09-05 23:52:16 Clearing repo C:\git\LoggingDetectiveFiles.
-2023-09-05 23:52:16 Downloading notifications.
-2023-09-05 23:52:17 Downloading observations.
-2023-09-05 23:52:27 Processing.
-2023-09-05 23:52:27 Loading species.
-2023-09-05 23:52:30 Loading observations.
-2023-09-05 23:52:41 Loading notifications.
-2023-09-05 23:52:58 Adding observations to notifications.
-2023-09-05 23:53:13 Freeing memory.
-2023-09-05 23:53:14 Adding owners.
-2023-09-05 23:53:46 Processing logging notifications.
-2023-09-05 23:53:46 Generating observation maps.
-2023-09-05 23:54:25 Generating knärot maps.
-2023-09-05 23:54:40 Generating complaints.
-2023-09-05 23:54:42 Generating complaint letters.
-2023-09-05 23:54:44 Generating requests.
-2023-09-05 23:54:47 Generating request letters.
-2023-09-05 23:54:49 Saving notification information to Excel.
-2023-09-05 23:54:54 Saving observations to Excel.
-2023-09-05 23:54:57 Pushing repo C:\git\LoggingDetectiveFiles.
+2023-09-06 22:25:27 Started replace_files_sweden_test.
+2023-09-06 22:25:27 Clearing repo C:\git\LoggingDetectiveFiles.
+2023-09-06 22:25:28 Downloading notifications.
+2023-09-06 22:25:28 Downloading observations.
+2023-09-06 22:25:44 Processing.
+2023-09-06 22:25:44 Loading species.
+2023-09-06 22:25:47 Loading observations.
+2023-09-06 22:25:59 Loading notifications.
+2023-09-06 22:26:18 Adding observations to notifications.
+2023-09-06 22:26:35 Freeing memory.
+2023-09-06 22:26:36 Adding owners.
+2023-09-06 22:27:11 Processing logging notifications.
+2023-09-06 22:27:11 Generating observation maps.
+2023-09-06 22:27:56 Generating knärot maps.
+2023-09-06 22:28:12 Generating complaints.
+2023-09-06 22:28:15 Generating complaint letters.
+2023-09-06 22:28:17 Generating requests.
+2023-09-06 22:28:19 Generating request letters.
+2023-09-06 22:28:22 Saving notification information to Excel.
+2023-09-06 22:28:28 Saving observations to Excel.
+2023-09-06 22:28:30 Pushing repo C:\git\LoggingDetectiveFiles.
+2023-09-06 22:28:30 Pushing 474 repos.
