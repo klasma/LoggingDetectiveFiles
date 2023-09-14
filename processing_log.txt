@@ -1,22 +1,22 @@
-2023-09-14 22:21:46 Started replace_files_sweden_test.
-2023-09-14 22:21:46 Clearing repo C:\git\LoggingDetectiveFiles.
-2023-09-14 22:21:46 Downloading notifications.
-2023-09-14 22:21:47 Downloading observations.
-2023-09-14 22:22:05 Processing.
-2023-09-14 22:22:05 Loading species.
-2023-09-14 22:22:07 Loading observations.
-2023-09-14 22:22:19 Loading notifications.
-2023-09-14 22:22:35 Adding observations to notifications.
-2023-09-14 22:22:51 Freeing memory.
-2023-09-14 22:22:51 Adding owners.
-2023-09-14 22:23:24 Processing logging notifications.
-2023-09-14 22:23:24 Generating observation maps.
-2023-09-14 22:24:04 Generating knärot maps.
-2023-09-14 22:24:20 Generating complaints.
-2023-09-14 22:24:23 Generating complaint letters.
-2023-09-14 22:24:25 Generating requests.
-2023-09-14 22:24:28 Generating request letters.
-2023-09-14 22:24:30 Saving notification information to Excel.
-2023-09-14 22:24:36 Saving observations to Excel.
-2023-09-14 22:24:38 Pushing repo C:\git\LoggingDetectiveFiles.
-2023-09-14 22:24:38 Pushing 474 repos.
+2023-09-14 22:46:55 Started replace_files_sweden_test.
+2023-09-14 22:46:55 Clearing repo C:\git\LoggingDetectiveFiles.
+2023-09-14 22:46:55 Downloading notifications.
+2023-09-14 22:46:56 Downloading observations.
+2023-09-14 22:47:05 Processing.
+2023-09-14 22:47:05 Loading species.
+2023-09-14 22:47:07 Loading observations.
+2023-09-14 22:47:19 Loading notifications.
+2023-09-14 22:47:35 Adding observations to notifications.
+2023-09-14 22:47:51 Freeing memory.
+2023-09-14 22:47:51 Adding owners.
+2023-09-14 22:48:24 Processing logging notifications.
+2023-09-14 22:48:24 Generating observation maps.
+2023-09-14 22:49:04 Generating knärot maps.
+2023-09-14 22:49:19 Generating complaints.
+2023-09-14 22:49:22 Generating complaint letters.
+2023-09-14 22:49:24 Generating requests.
+2023-09-14 22:49:27 Generating request letters.
+2023-09-14 22:49:29 Saving notification information to Excel.
+2023-09-14 22:49:34 Saving observations to Excel.
+2023-09-14 22:49:37 Pushing repo C:\git\LoggingDetectiveFiles.
+2023-09-14 22:49:37 Pushing 474 repos.
