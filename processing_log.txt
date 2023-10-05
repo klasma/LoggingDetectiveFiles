@@ -1,23 +1,23 @@
-2023-10-05 22:55:19 Started replace_files_sweden_test.
-2023-10-05 22:55:19 Clearing repo C:\git\LoggingDetectiveFiles.
-2023-10-05 22:55:20 Downloading notifications.
-2023-10-05 22:55:21 Downloading observations.
-2023-10-05 22:55:57 Processing.
-2023-10-05 22:55:57 Loading species.
-2023-10-05 22:55:59 Loading observations.
-2023-10-05 22:56:11 Loading notifications.
-2023-10-05 22:56:27 Adding observations to notifications.
-2023-10-05 22:56:45 Freeing memory.
-2023-10-05 22:56:45 Adding owners.
-2023-10-05 22:57:17 Processing logging notifications.
-2023-10-05 22:57:17 Generating observation maps.
-2023-10-05 22:57:57 Generating knärot maps.
-2023-10-05 22:58:12 Generating complaints.
-2023-10-05 22:58:15 Generating complaint letters.
-2023-10-05 22:58:17 Generating requests.
-2023-10-05 22:58:20 Generating request letters.
-2023-10-05 22:58:23 Saving notification information to Excel.
-2023-10-05 22:58:29 Saving list of notifications to json.
-2023-10-05 22:58:29 Saving observations to Excel.
-2023-10-05 22:58:31 Pushing repo C:\git\LoggingDetectiveFiles.
-2023-10-05 22:58:31 Pushing 474 repos.
+2023-10-05 23:03:47 Started replace_files_sweden_test.
+2023-10-05 23:03:47 Clearing repo C:\git\LoggingDetectiveFiles.
+2023-10-05 23:03:47 Downloading notifications.
+2023-10-05 23:03:48 Downloading observations.
+2023-10-05 23:03:59 Processing.
+2023-10-05 23:03:59 Loading species.
+2023-10-05 23:04:02 Loading observations.
+2023-10-05 23:04:13 Loading notifications.
+2023-10-05 23:04:30 Adding observations to notifications.
+2023-10-05 23:04:44 Freeing memory.
+2023-10-05 23:04:44 Adding owners.
+2023-10-05 23:05:17 Processing logging notifications.
+2023-10-05 23:05:17 Generating observation maps.
+2023-10-05 23:06:00 Generating knärot maps.
+2023-10-05 23:06:17 Generating complaints.
+2023-10-05 23:06:20 Generating complaint letters.
+2023-10-05 23:06:23 Generating requests.
+2023-10-05 23:06:26 Generating request letters.
+2023-10-05 23:06:29 Saving notification information to Excel.
+2023-10-05 23:06:34 Saving list of notifications to json.
+2023-10-05 23:06:34 Saving observations to Excel.
+2023-10-05 23:06:37 Pushing repo C:\git\LoggingDetectiveFiles.
+2023-10-05 23:06:37 Pushing 474 repos.
